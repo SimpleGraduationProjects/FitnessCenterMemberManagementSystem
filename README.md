@@ -1,17 +1,15 @@
-# FitnessCenterMemberManagementSystem
-健身中心会员管理系统-毕业设计
 
-# 122.BookMallManagementSystem
+# 199.FitnessCenterMemberManagementSystem
 
 <p>群: 123300273(大佬群 2TB学习资料,讲解)(入群获取sql文件)</p>
 
-<p><h1 align="center">122.图书商城管理系统</h1></p>
+<p><h1 align="center">199.健身中心会员管理系统</h1></p>
 
 
 <p align="center">
 	<img src="https://img.shields.io/badge/jdk-1.8-orange.svg"/>
     <img src="https://img.shields.io/badge/springboot-5.x-lightgrey.svg"/>
-    <img src="https://img.shields.io/badge/springMVC-3.x-blue.svg"/>
+    <img src="https://img.shields.io/badge/jsp-3.x-blue.svg"/>
     <img src="https://img.shields.io/badge/mybatis-5.x-yellow.svg"/>
 </p>
 
@@ -37,11 +35,11 @@
 
 ## 缩略图
 
-![]()
-![]()
-![]()
-![]()
-![]()
+![](https://img2023.cnblogs.com/blog/588112/202302/588112-20230205094258972-1220158781.png)
+![](https://img2023.cnblogs.com/blog/588112/202302/588112-20230205094302892-247413752.png)
+![](https://img2023.cnblogs.com/blog/588112/202302/588112-20230205094307003-2034716806.png)
+![](https://img2023.cnblogs.com/blog/588112/202302/588112-20230205094311476-127206393.png)
+![](https://img2023.cnblogs.com/blog/588112/202302/588112-20230205094315983-147546612.png)
 
 ## License
 
