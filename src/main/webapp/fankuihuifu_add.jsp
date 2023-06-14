@@ -22,7 +22,7 @@
                     <div class="form-group">
                         <div class="row">
                             <label style="text-align: right" class="col-sm-2 hiddex-xs">留言人</label>
-                            <div class="col-sm-10">${readMap.liuyanren}<input type="hidden" id="liuyanren" name="liuyanren" value="${Info.html(readMap.liuyanren)}" /></div>
+                            <div class="col-sm-10">${readMap.liuyanren}<input type="hidden" id="liuyanren" name="liuyanren" value="${readMap.liuyanren}" /></div>
                         </div>
                     </div>
                     <div class="form-group">

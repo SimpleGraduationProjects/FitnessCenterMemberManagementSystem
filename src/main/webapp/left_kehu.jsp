@@ -33,6 +33,37 @@
 <li>
     <a href="javascript:;" class="nav-top-item">
         <i class="icon ti-home"></i>
+        <span>公告信息管理</span>
+    </a>
+    <ul>
+        <li>
+            <a target="main" href="gonggaoxinxi_list.do"> 公告信息查询 </a>
+        </li>
+    </ul>
+</li>
+<li>
+    <a href="javascript:;" class="nav-top-item">
+        <i class="icon ti-home"></i>
+        <span>留言反馈管理</span>
+    </a>
+    <ul>
+        <li>
+            <a target="main" href="liuyanfankui_list.do"> 留言反馈查询 </a>
+        </li>
+        <li>
+            <a target="main" href="liuyanfankui_add.do"> 留言反馈添加 </a>
+        </li>
+        <li>
+            <a target="main" href="fankuihuifu_list.do"> 反馈回复查询 </a>
+        </li>
+        <li>
+            <a target="main" href="fankuihuifu_add.do"> 反馈回复添加 </a>
+        </li>
+    </ul>
+</li>
+<li>
+    <a href="javascript:;" class="nav-top-item">
+        <i class="icon ti-home"></i>
         <span>个人中心</span>
     </a>
     <ul>
